@@ -10,6 +10,12 @@
 yarn add --dev @mkhotsevich/prettier-config
 ```
 
+or
+
+```bash
+npm install -D @mkhotsevich/prettier-config
+```
+
 **Edit `package.json`**:
 
 ```jsonc
