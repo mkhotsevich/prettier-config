@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-yarn add --dev @mkhotsevich/prettier-config
+yarn add -D @mkhotsevich/prettier-config
 ```
 
 or
