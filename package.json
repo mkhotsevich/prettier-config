@@ -4,5 +4,6 @@
   "description": "My personal Prettier config",
   "main": "index.json",
   "repository": "git@github.com:mkhotsevich/prettier-config.git",
-  "author": "Maxim Khotsevich <mkhotsevich@gmail.com>"
+  "author": "Maxim Khotsevich <mkhotsevich@gmail.com>",
+  "license": "MIT"
 }
